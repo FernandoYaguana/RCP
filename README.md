@@ -1,6 +1,6 @@
 # HELLO WORLD FROM RPC
 
-This is a Go project that displays Hello World message from WebSocket using WebSocket architecture style.
+This is a Go project that displays Hello World message from RPC using RPC architecture style.
 
 ## Technologies used
 
